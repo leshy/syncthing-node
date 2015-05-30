@@ -1,0 +1,43 @@
+{
+  "name": "syncthing-node",
+  "version": "0.9.19",
+  "description": "Syncthing REST API consumer in Node.js.",
+  "homepage": "https://source.ind.ie/aral/syncthing-node/tree/master",
+  "main": "syncthing-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://source.ind.ie:80/aral/syncthing-node.git"
+  },
+  "author": {
+    "name": "Aral Balkan"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "bluebird": "^2.3.2",
+    "path-extra": "^0.3.0",
+    "restler": "^3.2.2"
+  },
+  "_id": "syncthing-node@0.9.19",
+  "_shasum": "c9762f97985613d6c7b621baad90e25787f5bc72",
+  "_from": "syncthing-node@*",
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "aral",
+    "email": "aral@ind.ie"
+  },
+  "maintainers": [
+    {
+      "name": "aral",
+      "email": "aral@ind.ie"
+    }
+  ],
+  "dist": {
+    "shasum": "c9762f97985613d6c7b621baad90e25787f5bc72",
+    "tarball": "http://registry.npmjs.org/syncthing-node/-/syncthing-node-0.9.19.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/syncthing-node/-/syncthing-node-0.9.19.tgz"
+}
